@@ -1,0 +1,15 @@
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\bin\Debug\net6.0\TutorialsEU_GuessTheWord.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\bin\Debug\net6.0\TutorialsEU_GuessTheWord.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\bin\Debug\net6.0\TutorialsEU_GuessTheWord.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\bin\Debug\net6.0\TutorialsEU_GuessTheWord.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\bin\Debug\net6.0\TutorialsEU_GuessTheWord.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\refint\TutorialsEU_GuessTheWord.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\TutorialsEU_GuessTheWord.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheWord\obj\Debug\net6.0\ref\TutorialsEU_GuessTheWord.dll
